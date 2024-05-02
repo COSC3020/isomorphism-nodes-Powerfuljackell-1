@@ -11,5 +11,5 @@ $G_1=(V_1 , E_1)$ is isomorphic to $G_2 = (V_2, E_2)$ if there exists a
 one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,v)
 \in E_1$ iff $(f(u),f(v)) \in E_2$.
 
-Based on the formal definition of isomorphism, for graphs $G_1=(V_1 , E_1)$,$G_2 = (V_2, E_2)$ where $V_1 \neq V_2$ then there cannot exist a one-to-one and onto function (bijection) $f: V_1 \not\rightarrow V_2$ such that $(u,v)
-\in E_1$ iff $(f(u),f(v)) \in E_2$.
+Based on the formal definition of isomorphism, for graphs $G_1=(V_1 , E_1)$,$G_2 = (V_2, E_2)$ where $V_1 \neq V_2$ then there does exists a one-to-one and onto function $f: V_1 \not\rightarrow V_2$ such that $(u,v)
+\in E_1$ iff $(f(u),f(v)) \in E_2$. Therefore they cannot be isomorphic.
